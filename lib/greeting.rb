@@ -1,4 +1,4 @@
 # code the #greeting method here!
-def gets
+def greeting
   puts "Hi, #{name}! Welcome to the wonderful world of Ruby programming."
 end
